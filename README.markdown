@@ -14,8 +14,8 @@ to fit horizontal PCB-mount sockets that need to overlap the edge.
 
 Features:
 
- * Reset button wired through to Arduino reset pin.
- * Pads for 2 x 100nF smoothing capacitors.
+ * Pads for reset button connected to Arduino reset pin.
+ * Pads for 100nF smoothing capacitor.
  * Pads for "power on" LED and current-limiting resistor.
  * Parts overlay on both the top and the bottom so you can see what you
    are connecting without having to keep turning the board over.
