@@ -7,10 +7,11 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibrary="/home/jon/eagle-5.9.0/lbr/freetronics.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="669 25 1268 424"
+Loc="673 49 1272 448"
 State=2
 Number=0
 
