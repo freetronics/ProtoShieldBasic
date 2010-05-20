@@ -15,9 +15,9 @@ to fit horizontal PCB-mount sockets that need to overlap the edge.
 Features:
 
  * Pads for reset button connected to Arduino reset pin.
- * Pads for 100nF smoothing capacitor.
+ * Pads for two 100nF smoothing capacitors.
  * Pads for "power on" LED and current-limiting resistor.
- * Parts overlay on both the top and the bottom so you can see what you
+ * Header labels on both the top and the bottom so you can see what you
    are connecting without having to keep turning the board over.
 
 
@@ -38,8 +38,8 @@ Licensed under the TAPR Open Hardware License (www.tapr.org/OHL).
 FABRICATION OPTIONS
 -------------------
 If you haven't had PCBs fabricated before it can be very confusing
-trying to work out all the options. We have our boards fabbed by
-pcbcart.com, so to save you some hassle the list below shows our
+trying to work out all the options. We have some of our boards fabbed
+by pcbcart.com, so to save you some hassle the list below shows our
 recommended selections for the options on their order form. Some of the
 settings can be changed if you have different preferences but this is a
 sensible starting point if you don't know what the options mean and
