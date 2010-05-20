@@ -1,2 +1,5 @@
+2010-05-20  Jonathan Oxer <jon@freetronics.com>
+  * Final tweaks before fabrication of v1.0
+
 2010-05-10  Jonathan Oxer <jon@freetronics.com>
   * Initial release as version 1.0
