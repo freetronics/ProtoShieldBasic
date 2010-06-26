@@ -20,14 +20,14 @@ general-purpose LEDs.
 Features:
 
  * Pads for reset button connected to Arduino reset pin.
- * Pads for 100nF smoothing capacitor.
+ * Pads for two 100nF smoothing capacitors.
  * Pads for "power on" LED and current-limiting resistor.
  * Parts overlay on both the top and the bottom so you can see what you
    are connecting without having to keep turning the board over.
 
-More information is available on our product page at:
+More information is available at:
 
-  http://www.freetronics.com/products/protoshieldbasic
+  http://www.freetronics.com/protoshield-basic
 
 The "docs" folder within this repository includes a handy copy of the
 schematic in PDF format and image(s) of the pcb.
