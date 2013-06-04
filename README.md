@@ -1,11 +1,11 @@
 Freetronics ProtoShieldBasic
 ==============================
-Copyright 2010 Freetronics Pty Ltd  
-Freetronics site:  <www.freetronics.com>  
-Freetronics email: <info@freetronics.com>  
+Copyright 2013 Freetronics Pty Ltd  
+Freetronics site:  www.freetronics.com  
+Freetronics email: info@freetronics.com  
 
 A minimalist general-purpose prototyping shield for the Arduino
-Duemilanove, TwentyTen, and other compatible boards based on the same
+Uno, Freetronics Eleven, and other compatible boards based on the same
 header format.
 
 This design is intended to maximise prototyping area by extending the
@@ -14,23 +14,20 @@ to fit horizontal PCB-mount sockets that need to overlap the edge.
 
 Note that this design is intended for simple fabrication and assembly,
 and does not have many of the features of other prototyping shields
-such as the "ProtoShield" (also available from Freetronics) such as
+such as the "ProtoShield Pro" (also available from Freetronics) such as
 general-purpose LEDs.
 
 Features:
 
  * Pads for reset button connected to Arduino reset pin.
- * Pads for two 100nF smoothing capacitors.
+ * Pads for 100nF smoothing capacitor.
  * Pads for "power on" LED and current-limiting resistor.
  * Parts overlay on both the top and the bottom so you can see what you
    are connecting without having to keep turning the board over.
 
 More information is available at:
 
-  http://www.freetronics.com/protoshield-basic
-
-The "docs" folder within this repository includes a handy copy of the
-schematic in PDF format and image(s) of the pcb.
+  http://www.freetronics.com/psb
 
 
 INSTALLATION
